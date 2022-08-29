@@ -2,6 +2,8 @@
     margin: 0;
 }
 
+/* site_header_style */
+
 #site_header {
     background-image: url("../img/pattern.png");
     background-size: contain;
@@ -12,4 +14,39 @@
 #site_header img {
     width: 200px;
     margin-top: 20px;
+
+}
+
+/* site_main_style */
+
+#site_main h1 {
+    font-weight: 900;
+    font-size: 40px;
+    margin-top: 1rem;
+    margin-left: 0.5rem;
+}
+
+#site_main a {
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+    color: rgb(173, 216, 230);
+}
+
+#site_main p {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(0, 0, 0, 0.4);
+    margin-left: 0.5rem;
+}
+
+#tim_1 {
+    margin-left: 0.5rem;
+    margin-top: 1rem;
+}
+
+#lorem_90 {
+    margin-top: 1rem;
+}
+
+#underline {
+    background-color: rgba(247, 255, 4, 0.8);
 }
