@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+}
+
+#site_header {
+    background-image: url("../img/pattern.png");
+    background-size: contain;
+    background-color: rgb(48, 188, 235);
+    
+}
+
+#site_header img {
+    width: 200px;
+    margin-top: 20px;
+}
