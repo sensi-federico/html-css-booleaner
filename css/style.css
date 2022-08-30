@@ -46,10 +46,12 @@
 .photo_desc {
     font-family: 'Times New Roman', Times, serif;
     color: rgb(0, 0, 0, 0.5);
+    margin-left: 0.5rem;
 }
 
 #lorem_90 {
     margin-top: 1rem;
+    margin-left: 0.5rem;
 }
 
 #underline {
@@ -58,5 +60,43 @@
 
 ul {
     margin-top: 1.5rem;
-    padding-left: 1.2rem;
+    padding-left: 1.3rem;
+}
+
+/* tabella */
+
+table {
+    margin-top: 1rem;
+    margin-left: 0.5rem;
+}
+
+#table_head {
+    background-color: rgb(15, 114, 185);
+}
+
+.color_table {
+    background-color: lightblue;
+}
+
+.text_table {
+    text-align: justify;
+}
+ 
+  /* footer */
+
+h5 {
+    margin-top: 1rem;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(0, 0, 0, 0.6);
+}
+
+#div_image {
+    display: grid;
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+#div_image img {
+    margin-top: 0.5rem;
 }
